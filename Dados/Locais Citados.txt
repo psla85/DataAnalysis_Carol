@@ -1,0 +1,412 @@
+	Cidade	Quantidade de Menções
+1	Itacaré	7
+2	Bonito	45
+3	Maceió	37
+4	Foz Do Iguaçu	42
+5	Palmas	2
+6	Salvador	89
+7	Rio de Janeiro	221
+8	Florianópolis	67
+9	Manaus	41
+10	Ouro Preto	32
+11	Brasilia	12
+12	Manus	1
+13	Pantanal	27
+14	Fernando de Noronha	91
+15	Mangue Seco	1
+16	São Paulo	93
+17	Floripa	6
+18	Jericoaquara	2
+19	Maragogi	15
+20	Marau	1
+21	Chapada Diamantina	19
+22	Praia Do Espelho	1
+23	Pipa	17
+24	Jericoacoara	17
+25	Porto Seguro	17
+26	Amazonas	16
+27	Porto de Galinhas	24
+28	Lençóis Maranhenses	27
+29	Natal	62
+30	Campos Do Jordão	9
+31	Cabo Frio	1
+32	Joao Pessoa	3
+33	Sao Paulo	10
+34	Recife	21
+35	Foz Do Iguaçú	1
+36	Belém	9
+37	Gramado	53
+38	João Pessoa	22
+39	Rio de Jsneiro	1
+40	Foz de Iguaçu	1
+41	Fortaleza	44
+42	Brasila	1
+43	Camboriú	1
+44	Itapema	2
+45	Balneário Camboriú	3
+46	Santarém	3
+47	São Francisco Do Sul	2
+48	Porto Alegre	6
+49	Aracaju	3
+50	Brasília	43
+51	Rio	6
+52	Foz Do Iguazú	1
+53	Paraty	12
+54	Bahia	14
+55	Curitiba	20
+56	Arraial Do Cabo	7
+57	Ilhabela	2
+58	Trancoso	13
+59	Porto de Galinha	1
+60	Buzios	3
+61	Ilha Do Frade	1
+62	Rio Grande Do Sul	3
+63	Santa Catarina	7
+64	Alagoas	5
+65	Pernanbuco	1
+66	Caraíva	3
+67	Búzios	12
+68	Jalapão	9
+69	Cataratas Do Iguaçu	9
+70	Angra Dos Reis	2
+71	Capitólio (Mg)	1
+72	Florianópolis-Sc	4
+73	Gramado-Rs	1
+74	Foz Do Iguaçu- Pr	1
+75	Bonito-Ms	2
+76	Manaus- Am	1
+77	Tiradentes	13
+78	Campos de Jordão	1
+79	Arraial D'Ajuda	5
+80	Petrópolis	2
+81	Mariana	2
+82	Alto Paraíso	2
+83	Jacumã	1
+84	Serra Catarinense Ou Serra Gaúcha	1
+85	Litoral Catarinense	2
+86	Minas Gerais	5
+87	Praias Do Nordeste	1
+88	Pirinopoles	1
+89	Caldas Novas	5
+90	Jericoacora	1
+91	Porto de Galinhas - Pe	1
+92	Altoparaiso - Go	1
+93	Cristo Redentor	1
+94	Yapoki (Todo Mundo Tem Q Conhecer)	1
+95	Beto Carreiro	1
+96	Conceição Do Mato Dentro	1
+97	Belo Horizonte	6
+98	Vale Dos Vinhedos	2
+99	Litoral Sul	1
+100	Norte Do Rio de Janeiro	1
+101	Serra Da Mantiqueira	1
+102	Cambará Do Sul	1
+103	São Sebastião (Sp)	1
+104	Lençóis Maranhense	5
+105	Serra Gaúcha	4
+106	Itacaré - Bahia	1
+107	Guarajuba - Bahia	1
+108	Presidente Figueiredo	1
+109	Jalapao	4
+110	Amazônia	13
+111	Chapada Dos Veadeiros	18
+112	Praias de Alagoas	3
+113	Praias Da Bahia	3
+114	Olinda	7
+115	Morro de Sao Paulo	2
+116	Pirenópolis	3
+117	Lencois Maranhenses	2
+118	Litoral Sul Da Bahia	1
+119	Litoral Sul Do Rio de Janeiro	1
+120	Floresta Amazônica	3
+121	Praias Do Ceará	1
+122	Canela	2
+123	Florianopolis	5
+124	Chapada Dos Guimarães	1
+125	Morro de São Paulo	10
+126	Ilha de Marajó	2
+127	Serra Gaucha	1
+128	Nordeste	3
+129	Caxias Do Sul	1
+130	Cataratas de Foz Do Iguaçu	1
+131	Pernambuco	2
+132	Ceará	5
+133	Blumenau	2
+134	Foz Do Iguaçu/Pr	1
+135	Fernando de Noronha/Pe	1
+136	Maragogi/Al	1
+137	São Paulo/Sp	2
+138	Itacare	1
+139	Ilha Grande	5
+140	Vitória	4
+141	Noronha	5
+142	Japão	1
+143	Ilha Do Mel	2
+144	Parati/Rota Do Ouro	1
+145	Litoral Norte Paulista	1
+146	Praias Pela Hospitalidade	1
+147	Gramado/Canelas	1
+148	Litoral Do Nordeste	2
+149	Cidades Históricas de Minas Gerais	1
+150	Barra Grande/Marau	1
+151	Estrada Real	1
+152	Bonito Mt	1
+153	Maranhão	2
+154	Bahia Geral	1
+155	Florianópolis - Sc	1
+156	Gramado - Rs	2
+157	Rio de Janeiro - Rj	3
+158	São Paulo - Sp	1
+159	Belo Horizonte - Mg	1
+160	Paraiba	1
+161	Lençóis Maranhences	2
+162	Sul Da Bahia	2
+163	Jeri	3
+164	Foz	1
+165	Lençóis	1
+166	Jeriquaquara	2
+167	Belem	1
+168	Jijoca de Jericoacoara	1
+169	Saco Do Mamanguá/Rj	1
+170	Inhotim	3
+171	Rj	3
+172	Alter Do Chão No Pará	1
+173	Porto Seguro Na Bahia	1
+174	Praia Da Pipa Em Rio Grande Do Norte	1
+175	Caldas Novas Em Goiás	1
+176	Selva Park Em Cacoal Rondônia	1
+177	Carrancas	2
+178	Ilhéus	4
+179	Serra Da Canastra	1
+180	Itanhaém	1
+181	Ilha de Boi Peba	1
+182	Canoa Quebrada	2
+183	São Luís	4
+184	Itacaré (Bahia )	1
+185	Ilha Do Marajó ( Pará)	1
+186	Juquei ( São Paulo)	1
+187	Río de Janeiro	1
+188	Pipa - Rn	1
+189	Salvador - Ba	2
+190	Amazonia	3
+191	Peninsula Do Maraú	1
+192	São Luiz	2
+193	Triângulo Mineiro	1
+194	Paraty/Rj	1
+195	Bonito/Ms	2
+196	Caratinga	1
+197	Santos	2
+198	Taperoá	1
+199	Japaratinga-Al	1
+200	São Miguel Do Gostoso-Rn	1
+201	Antunes-Al	1
+202	Ilha de Maré	1
+203	Subúrbio de Salvador	1
+204	Península de Maraú	1
+205	Pelourinho	1
+206	Cidades Históricas de Minas	2
+207	Bonito Ms	1
+208	Chapada Diamantina Ba	1
+209	Lençóis Maranhenses Ma	1
+210	Manaus/Am	2
+211	Galinhos/Rn	1
+212	Brasília/Df	1
+213	Arraial Da Ajuda	1
+214	Paraná	1
+215	Visconde de Mauá	1
+216	Aparados Da Serra	1
+217	Praias Nordeste(Resorts)	1
+218	Fortim	1
+219	Diamantina	2
+220	Praia Do Forte (Ba)	1
+221	Maragogi (Al)	1
+222	Foz Do Rio São Francisco	1
+223	Canelas	1
+224	Sao Paulo (Sim!)	1
+225	São Miguel Dos Milagres	3
+226	Pipa - Rio Grande Do Norte	1
+227	Cidades Históricas Mineiras	1
+228	Lençóis Maranheces	1
+229	Arraial D’Ajuda	1
+230	Pirenopolis	1
+231	Praia Do Forte - Ba	1
+232	Praia Do Gunga - Al	1
+233	Fortaleza - Ce	1
+234	Barra Grande	3
+235	Serra Catarinese	1
+236	Rio de Janeiro-Rj	5
+237	Fernando de Noronha-Rn	1
+238	São Paulo-Sp	1
+239	Curitiba-Pr	1
+240	Goiânia	1
+241	Bombas	1
+242	Serra Da Capivara	4
+243	Rio Branco	1
+244	Cânions Do São Francisco/Se	1
+245	Recife/Pe	1
+246	Maceió/Al	1
+247	João Pessoa/Pb	1
+248	Monte Verde (Mg)	1
+249	Natal (Rn)	1
+250	Rio de Janeiro (Rj)	3
+251	João Pessoa (Pb)	1
+252	São Miguel Do Gostoso (Rn)	1
+253	Guarajuba	1
+254	Praias Do Nordeste Ex: Maceió	1
+255	João Pessoa.	1
+256	Brasília.	1
+257	Curitiba. 4 - Gramado.	1
+258	Cidades Históricas de Mg	1
+259	Barra Grande Piauí	1
+260	Ilha Do Marajo	1
+261	Pantanal Matogrossense	1
+262	(Natal	1
+263	João Pessoa Ou Aracaju)	1
+264	Flexeiras	1
+265	Costa Do Sauipe	1
+266	Dunas Maranhenses	1
+267	Serra Negra	1
+268	Pirinópolis	1
+269	Maceio	1
+270	Prais Do Nordeste	1
+271	Espírito Santo	1
+272	Salvador/Sul Da Bahia	1
+273	Cumuruxatiba	1
+274	Chapada Diamantina - Ba	1
+275	Itacaré - Ba	1
+276	Jericoacoara - Ba	1
+277	Jalapão - To	1
+278	Lençóis Maranhenses - Ma	1
+279	Campos Dos Jordão	1
+280	Praias Nordeste	1
+281	Domingos Martins	1
+282	Monte Verde A	1
+283	Jericoacara - Ce	1
+284	Boipeba	2
+285	Ilha de Boipeba	2
+286	Região Dos Lagos-Rj	1
+287	Japaratinga	1
+288	Praia Do Sossego (Itamaracá)	1
+289	Barra de São Miguel	1
+290	Belém Do Pará	2
+291	Carneiros	2
+292	Barra Do Garças	1
+293	Foz Do Iguacu	1
+294	Litoral Baiano	1
+295	Fox Do Iguassu	1
+296	Alter Do Chão - Santarém (Pa)	1
+297	Soure - Marajó (Pa)	1
+298	Pirenópolis (Go)	1
+299	Manaus (Am)	1
+300	Recife (Pe)	1
+301	Capitólio	1
+302	Lençóis-Ba	1
+303	Porto Seguro-Ba	1
+304	Porto de Galinhas-Pe	1
+305	Praia Do Forte-Ba	1
+306	Natal/Rn	1
+307	Salvador/Ba	1
+308	Rio de Janeiro/Rj	1
+309	Ouro Preto/Mg	1
+310	Chapada Diamantina/Ba	1
+311	Alter Do Chão	2
+312	Rio Se Janeirto	1
+313	Praias	2
+314	Cidades Da Estrada Rio Santos	1
+315	Charada Diamantina	1
+316	Abrolhos	1
+317	Praia Do Forte	3
+318	Arraial Djuda	1
+319	Pirinopolis	1
+320	Capitolio	1
+321	Serras Gaúchas	1
+322	Kit O Tal Norte de São Paulo	1
+323	Chaoada Diamantina	1
+324	Sãopaulo	1
+325	Quilombo Dos Palmares Serra Da Barriga	1
+326	Iguaçu	1
+327	São Miguel Das Missões	1
+328	Morro de São Paulo (Ba)	1
+329	Lençóis Maranheses (Ms)	1
+330	Minas Gerais (Cidades Históricas)	1
+331	Litoral Nordeste	1
+332	Rio de Janeiro ( Carnaval)	1
+333	Furnas	1
+334	Estrada Real (Mg)	1
+335	Fóz Do Iguaçu	1
+336	Litoral Norte Paulista ( Ubatuba	1
+337	Caraguatatuba)	1
+338	Cambara Do Sul No Estado Do Rio Grande Do Sul	1
+339	Praia de Garopaba No Estado de Sta Catarina	1
+340	Gramado No Estado Do Rio Grande Do Sul	1
+341	Praia de Jericoacoara No Estado Do Ceara	1
+342	Rio de Janeiro No Estado Do Rio de Janeiro	1
+343	Pra Conhecer Toda A Diversidade Diria Recife	1
+344	Serra Gaúcha (Gramado)	1
+345	São Thomé Das Letras	1
+346	Rio de Janeiro Rj	1
+347	Tiradentes Mg	1
+348	Diamantina Mg	1
+349	Gramado Rs	1
+350	Tamandaré Pe	1
+351	Jericoacoara (Ce)	1
+352	Lençóis Maranhenses (Ma)	1
+353	Salvador (Ba)	1
+354	Cataratas de Iguaçu (Pr)	1
+355	Balneario Camboriu	1
+356	Boa Vista/ Rr	1
+357	Fortaleza/Ce	1
+358	São Luiz/Ma	1
+359	Belém/ Pa	1
+360	Barra Do Corda	1
+361	Palmas-To	1
+362	Mata São João	1
+363	Cânions Do Rio São Francisco	1
+364	Bonito (Ms)	1
+365	Xapada Dos Veadeiro	1
+366	Estrada Real Mg	1
+367	Parque Nacional Montanhas Do Tumucumaque No Amapá	1
+368	Morro Do São Paulo	1
+369	Presidente Figueiredo-Am	1
+370	Maresias-Sp	1
+371	Belem-Pa	1
+372	São Raimundo Nonato No Piauí	1
+373	Piauí	1
+374	Luis Correia	1
+375	Alto Paraiso de Goiás	1
+376	Fernando de Noronha-Pe	1
+377	Jericoacoara-Ce	1
+378	Morro de São Paulo- Ba	1
+379	Barra Grande-Pi	1
+380	Maceió-Al	1
+381	Aracaju-Se	1
+382	Fortaleza-Ce	1
+383	Carolina	1
+384	Inhotim (Minas)	1
+385	Chapada Das Mesas	1
+386	Jericoacoara - Ce	2
+387	Fernando de Noronha- Pe	1
+388	Serra Da Capivara- Pi	1
+389	Lençóis Maranhense - Ma	1
+390	Luís Correia- Pi	1
+391	São Raimundo Nonato - Serra Da Capivara	1
+392	Pirenópolis - Goiás	1
+393	Lençóis - Bahia	1
+394	Delta Do Parnaíba- Piauí	1
+395	Piranhas -Alagoas	1
+396	Jericoacoara /Ce	1
+397	Natal /Rn	1
+398	Olinda /Pe	1
+399	Piranhas /Al	1
+400	Foz Do Iguaçu /Pr	1
+401	O Nordeste	1
+402	Itarema (Ce)	1
+403	Chapada Do Veadeiros (Go)	1
+404	São Paulo (Sp)	1
+405	Macapá (Ap)	1
+406	Manaus - Am	1
+407	Serra Da Capivara - Pi	1
+408	João Pessoa-Pb	1
+409	Recife-Pe	1
+410	Natal-Rn	1
+411	Florianópolis- Sc	1

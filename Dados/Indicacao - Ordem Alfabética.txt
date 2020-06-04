@@ -1,0 +1,412 @@
+;Cidade;Quantidade de Menções
+1;(Natal;1
+2;Abrolhos;1
+3;Alagoas;5
+4;Alter Do Chão;2
+5;Alter Do Chão - Santarém (Pa);1
+6;Alter Do Chão No Pará;1
+7;Alto Paraiso de Goiás;1
+8;Alto Paraíso;2
+9;Altoparaiso - Go;1
+10;Amazonas;16
+11;Amazonia;3
+12;Amazônia;13
+13;Angra Dos Reis;2
+14;Antunes-Al;1
+15;Aparados Da Serra;1
+16;Aracaju;3
+17;Aracaju-Se;1
+18;Arraial D'Ajuda;5
+19;Arraial Da Ajuda;1
+20;Arraial Djuda;1
+21;Arraial Do Cabo;7
+22;Arraial D’Ajuda;1
+23;Bahia;14
+24;Bahia Geral;1
+25;Balneario Camboriu;1
+26;Balneário Camboriú;3
+27;Barra Do Corda;1
+28;Barra Do Garças;1
+29;Barra Grande;3
+30;Barra Grande Piauí;1
+31;Barra Grande-Pi;1
+32;Barra Grande/Marau;1
+33;Barra de São Miguel;1
+34;Belem;1
+35;Belem-Pa;1
+36;Belo Horizonte;6
+37;Belo Horizonte - Mg;1
+38;Belém;9
+39;Belém Do Pará;2
+40;Belém/ Pa;1
+41;Beto Carreiro;1
+42;Blumenau;2
+43;Boa Vista/ Rr;1
+44;Boipeba;2
+45;Bombas;1
+46;Bonito;45
+47;Bonito (Ms);1
+48;Bonito Ms;1
+49;Bonito Mt;1
+50;Bonito-Ms;2
+51;Bonito/Ms;2
+52;Brasila;1
+53;Brasilia;12
+54;Brasília;43
+55;Brasília.;1
+56;Brasília/Df;1
+57;Buzios;3
+58;Búzios;12
+59;Cabo Frio;1
+60;Caldas Novas;5
+61;Caldas Novas Em Goiás;1
+62;Cambara Do Sul No Estado Do Rio Grande Do Sul;1
+63;Cambará Do Sul;1
+64;Camboriú;1
+65;Campos Do Jordão;9
+66;Campos Dos Jordão;1
+67;Campos de Jordão;1
+68;Canela;2
+69;Canelas;1
+70;Canoa Quebrada;2
+71;Capitolio;1
+72;Capitólio;1
+73;Capitólio (Mg);1
+74;Caraguatatuba);1
+75;Caratinga;1
+76;Caraíva;3
+77;Carneiros;2
+78;Carolina;1
+79;Carrancas;2
+80;Cataratas Do Iguaçu;9
+81;Cataratas de Foz Do Iguaçu;1
+82;Cataratas de Iguaçu (Pr);1
+83;Caxias Do Sul;1
+84;Ceará;5
+85;Chaoada Diamantina;1
+86;Chapada Das Mesas;1
+87;Chapada Diamantina;19
+88;Chapada Diamantina - Ba;1
+89;Chapada Diamantina Ba;1
+90;Chapada Diamantina/Ba;1
+91;Chapada Do Veadeiros (Go);1
+92;Chapada Dos Guimarães;1
+93;Chapada Dos Veadeiros;18
+94;Charada Diamantina;1
+95;Cidades Da Estrada Rio Santos;1
+96;Cidades Históricas Mineiras;1
+97;Cidades Históricas de Mg;1
+98;Cidades Históricas de Minas;2
+99;Cidades Históricas de Minas Gerais;1
+100;Conceição Do Mato Dentro;1
+101;Costa Do Sauipe;1
+102;Cristo Redentor;1
+103;Cumuruxatiba;1
+104;Curitiba;20
+105;Curitiba-Pr;1
+106;Curitiba. 4 - Gramado.;1
+107;Cânions Do Rio São Francisco;1
+108;Cânions Do São Francisco/Se;1
+109;Delta Do Parnaíba- Piauí;1
+110;Diamantina;2
+111;Diamantina Mg;1
+112;Domingos Martins;1
+113;Dunas Maranhenses;1
+114;Espírito Santo;1
+115;Estrada Real;1
+116;Estrada Real (Mg);1
+117;Estrada Real Mg;1
+118;Fernando de Noronha;91
+119;Fernando de Noronha- Pe;1
+120;Fernando de Noronha-Pe;1
+121;Fernando de Noronha-Rn;1
+122;Fernando de Noronha/Pe;1
+123;Flexeiras;1
+124;Floresta Amazônica;3
+125;Florianopolis;5
+126;Florianópolis;67
+127;Florianópolis - Sc;1
+128;Florianópolis- Sc;1
+129;Florianópolis-Sc;4
+130;Floripa;6
+131;Fortaleza;44
+132;Fortaleza - Ce;1
+133;Fortaleza-Ce;1
+134;Fortaleza/Ce;1
+135;Fortim;1
+136;Fox Do Iguassu;1
+137;Foz;1
+138;Foz Do Iguacu;1
+139;Foz Do Iguazú;1
+140;Foz Do Iguaçu;42
+141;Foz Do Iguaçu /Pr;1
+142;Foz Do Iguaçu- Pr;1
+143;Foz Do Iguaçu/Pr;1
+144;Foz Do Iguaçú;1
+145;Foz Do Rio São Francisco;1
+146;Foz de Iguaçu;1
+147;Furnas;1
+148;Fóz Do Iguaçu;1
+149;Galinhos/Rn;1
+150;Goiânia;1
+151;Gramado;53
+152;Gramado - Rs;2
+153;Gramado No Estado Do Rio Grande Do Sul;1
+154;Gramado Rs;1
+155;Gramado-Rs;1
+156;Gramado/Canelas;1
+157;Guarajuba;1
+158;Guarajuba - Bahia;1
+159;Iguaçu;1
+160;Ilha Do Frade;1
+161;Ilha Do Marajo;1
+162;Ilha Do Marajó ( Pará);1
+163;Ilha Do Mel;2
+164;Ilha Grande;5
+165;Ilha de Boi Peba;1
+166;Ilha de Boipeba;2
+167;Ilha de Marajó;2
+168;Ilha de Maré;1
+169;Ilhabela;2
+170;Ilhéus;4
+171;Inhotim;3
+172;Inhotim (Minas);1
+173;Itacare;1
+174;Itacaré;7
+175;Itacaré (Bahia );1
+176;Itacaré - Ba;1
+177;Itacaré - Bahia;1
+178;Itanhaém;1
+179;Itapema;2
+180;Itarema (Ce);1
+181;Jacumã;1
+182;Jalapao;4
+183;Jalapão;9
+184;Jalapão - To;1
+185;Japaratinga;1
+186;Japaratinga-Al;1
+187;Japão;1
+188;Jeri;3
+189;Jericoacara - Ce;1
+190;Jericoacoara;17
+191;Jericoacoara (Ce);1
+192;Jericoacoara - Ba;1
+193;Jericoacoara - Ce;2
+194;Jericoacoara /Ce;1
+195;Jericoacoara-Ce;1
+196;Jericoacora;1
+197;Jericoaquara;2
+198;Jeriquaquara;2
+199;Jijoca de Jericoacoara;1
+200;Joao Pessoa;3
+201;João Pessoa;22
+202;João Pessoa (Pb);1
+203;João Pessoa Ou Aracaju);1
+204;João Pessoa-Pb;1
+205;João Pessoa.;1
+206;João Pessoa/Pb;1
+207;Juquei ( São Paulo);1
+208;Kit O Tal Norte de São Paulo;1
+209;Lencois Maranhenses;2
+210;Lençóis;1
+211;Lençóis - Bahia;1
+212;Lençóis Maranheces;1
+213;Lençóis Maranhences;2
+214;Lençóis Maranhense;5
+215;Lençóis Maranhense - Ma;1
+216;Lençóis Maranhenses;27
+217;Lençóis Maranhenses (Ma);1
+218;Lençóis Maranhenses - Ma;1
+219;Lençóis Maranhenses Ma;1
+220;Lençóis Maranheses (Ms);1
+221;Lençóis-Ba;1
+222;Litoral Baiano;1
+223;Litoral Catarinense;2
+224;Litoral Do Nordeste;2
+225;Litoral Nordeste;1
+226;Litoral Norte Paulista;1
+227;Litoral Norte Paulista ( Ubatuba;1
+228;Litoral Sul;1
+229;Litoral Sul Da Bahia;1
+230;Litoral Sul Do Rio de Janeiro;1
+231;Luis Correia;1
+232;Luís Correia- Pi;1
+233;Macapá (Ap);1
+234;Maceio;1
+235;Maceió;37
+236;Maceió-Al;1
+237;Maceió/Al;1
+238;Manaus;41
+239;Manaus (Am);1
+240;Manaus - Am;1
+241;Manaus- Am;1
+242;Manaus/Am;2
+243;Mangue Seco;1
+244;Manus;1
+245;Maragogi;15
+246;Maragogi (Al);1
+247;Maragogi/Al;1
+248;Maranhão;2
+249;Marau;1
+250;Maresias-Sp;1
+251;Mariana;2
+252;Mata São João;1
+253;Minas Gerais;5
+254;Minas Gerais (Cidades Históricas);1
+255;Monte Verde (Mg);1
+256;Monte Verde A;1
+257;Morro Do São Paulo;1
+258;Morro de Sao Paulo;2
+259;Morro de São Paulo;10
+260;Morro de São Paulo (Ba);1
+261;Morro de São Paulo- Ba;1
+262;Natal;62
+263;Natal (Rn);1
+264;Natal /Rn;1
+265;Natal-Rn;1
+266;Natal/Rn;1
+267;Nordeste;3
+268;Noronha;5
+269;Norte Do Rio de Janeiro;1
+270;O Nordeste;1
+271;Olinda;7
+272;Olinda /Pe;1
+273;Ouro Preto;32
+274;Ouro Preto/Mg;1
+275;Palmas;2
+276;Palmas-To;1
+277;Pantanal;27
+278;Pantanal Matogrossense;1
+279;Paraiba;1
+280;Paraná;1
+281;Parati/Rota Do Ouro;1
+282;Paraty;12
+283;Paraty/Rj;1
+284;Parque Nacional Montanhas Do Tumucumaque No Amapá;1
+285;Pelourinho;1
+286;Peninsula Do Maraú;1
+287;Península de Maraú;1
+288;Pernambuco;2
+289;Pernanbuco;1
+290;Petrópolis;2
+291;Piauí;1
+292;Pipa;17
+293;Pipa - Rio Grande Do Norte;1
+294;Pipa - Rn;1
+295;Piranhas -Alagoas;1
+296;Piranhas /Al;1
+297;Pirenopolis;1
+298;Pirenópolis;3
+299;Pirenópolis (Go);1
+300;Pirenópolis - Goiás;1
+301;Pirinopoles;1
+302;Pirinopolis;1
+303;Pirinópolis;1
+304;Porto Alegre;6
+305;Porto Seguro;17
+306;Porto Seguro Na Bahia;1
+307;Porto Seguro-Ba;1
+308;Porto de Galinha;1
+309;Porto de Galinhas;24
+310;Porto de Galinhas - Pe;1
+311;Porto de Galinhas-Pe;1
+312;Pra Conhecer Toda A Diversidade Diria Recife;1
+313;Praia Da Pipa Em Rio Grande Do Norte;1
+314;Praia Do Espelho;1
+315;Praia Do Forte;3
+316;Praia Do Forte (Ba);1
+317;Praia Do Forte - Ba;1
+318;Praia Do Forte-Ba;1
+319;Praia Do Gunga - Al;1
+320;Praia Do Sossego (Itamaracá);1
+321;Praia de Garopaba No Estado de Sta Catarina;1
+322;Praia de Jericoacoara No Estado Do Ceara;1
+323;Praias;2
+324;Praias Da Bahia;3
+325;Praias Do Ceará;1
+326;Praias Do Nordeste;1
+327;Praias Do Nordeste Ex: Maceió;1
+328;Praias Nordeste;1
+329;Praias Nordeste(Resorts);1
+330;Praias Pela Hospitalidade;1
+331;Praias de Alagoas;3
+332;Prais Do Nordeste;1
+333;Presidente Figueiredo;1
+334;Presidente Figueiredo-Am;1
+335;Quilombo Dos Palmares Serra Da Barriga;1
+336;Recife;21
+337;Recife (Pe);1
+338;Recife-Pe;1
+339;Recife/Pe;1
+340;Região Dos Lagos-Rj;1
+341;Rio;6
+342;Rio Branco;1
+343;Rio Grande Do Sul;3
+344;Rio Se Janeirto;1
+345;Rio de Janeiro;221
+346;Rio de Janeiro ( Carnaval);1
+347;Rio de Janeiro (Rj);3
+348;Rio de Janeiro - Rj;3
+349;Rio de Janeiro No Estado Do Rio de Janeiro;1
+350;Rio de Janeiro Rj;1
+351;Rio de Janeiro-Rj;5
+352;Rio de Janeiro/Rj;1
+353;Rio de Jsneiro;1
+354;Rj;3
+355;Río de Janeiro;1
+356;Saco Do Mamanguá/Rj;1
+357;Salvador;89
+358;Salvador (Ba);1
+359;Salvador - Ba;2
+360;Salvador/Ba;1
+361;Salvador/Sul Da Bahia;1
+362;Santa Catarina;7
+363;Santarém;3
+364;Santos;2
+365;Sao Paulo;10
+366;Sao Paulo (Sim!);1
+367;Selva Park Em Cacoal Rondônia;1
+368;Serra Catarinense Ou Serra Gaúcha;1
+369;Serra Catarinese;1
+370;Serra Da Canastra;1
+371;Serra Da Capivara;4
+372;Serra Da Capivara - Pi;1
+373;Serra Da Capivara- Pi;1
+374;Serra Da Mantiqueira;1
+375;Serra Gaucha;1
+376;Serra Gaúcha;4
+377;Serra Gaúcha (Gramado);1
+378;Serra Negra;1
+379;Serras Gaúchas;1
+380;Soure - Marajó (Pa);1
+381;Subúrbio de Salvador;1
+382;Sul Da Bahia;2
+383;São Francisco Do Sul;2
+384;São Luiz;2
+385;São Luiz/Ma;1
+386;São Luís;4
+387;São Miguel Das Missões;1
+388;São Miguel Do Gostoso (Rn);1
+389;São Miguel Do Gostoso-Rn;1
+390;São Miguel Dos Milagres;3
+391;São Paulo;93
+392;São Paulo (Sp);1
+393;São Paulo - Sp;1
+394;São Paulo-Sp;1
+395;São Paulo/Sp;2
+396;São Raimundo Nonato - Serra Da Capivara;1
+397;São Raimundo Nonato No Piauí;1
+398;São Sebastião (Sp);1
+399;São Thomé Das Letras;1
+400;Sãopaulo;1
+401;Tamandaré Pe;1
+402;Taperoá;1
+403;Tiradentes;13
+404;Tiradentes Mg;1
+405;Trancoso;13
+406;Triângulo Mineiro;1
+407;Vale Dos Vinhedos;2
+408;Visconde de Mauá;1
+409;Vitória;4
+410;Xapada Dos Veadeiro;1
+411;Yapoki (Todo Mundo Tem Q Conhecer);1
